@@ -1,5 +1,13 @@
 # blackroad-digital-identity
 
+> Digital identity verification and KYC system
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Gov](https://github.com/BlackRoad-Gov)
+
+---
+
+# blackroad-digital-identity
+
 Digital identity verification and KYC system for BlackRoad Gov.
 
 ## Features
